@@ -1,0 +1,105 @@
+/* #div1{
+    width: 50%;
+    height: 60%;
+    background-color: blue;
+    float: right;
+}
+#div2{
+    width: 50%;
+    height: 60%;
+    background-color: rgb(219, 8, 8);
+    float: left;
+} */
+/* .container{
+    height: 500px;
+    width: 1000px;
+    border: 2px solid black;
+    position: relative;
+    display: flex;
+       
+}
+#div1{
+    height: 160px;
+    width: 160px;
+    background-color: aqua;
+}
+#div2{
+    height: 160px;
+    width: 160px;
+    background-color: rgb(7, 223, 43);
+    
+}
+#div3{
+    height: 160px;
+    width: 160px;
+    background-color: rgb(38, 0, 255);
+    
+}
+#div4{
+    height: 160px;
+    width: 160px;
+    background-color: rgb(255, 0, 225);
+    
+}
+#div5{
+    height: 160px;
+    width: 160px;
+    background-color: rgb(255, 38, 0);
+    
+}
+h1#head{
+    text-shadow: 2px 2px 6px blue;
+    text-align: center;
+}
+h1#head:hover{
+    color: blue;
+    background-color: brown;
+    cursor: pointer;
+}
+div.para{
+    border: 3px dotted blue;
+    text-align: center;
+    padding: 10px;
+}
+div.para:hover{
+    background-color: black;
+    color: bisque;
+    cursor: pointer;
+}
+.cntainer{
+    width: auto;
+    height: 600px;
+    border: 3px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center; 
+     justify-content: space-between;
+}
+#div-1{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#div-2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(9, 250, 77);  
+}
+#div-3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(215, 8, 163);
+}
+#div-4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(9, 190, 206);
+ }  
+body{
+    margin: 0 auto;
+}
+div{
+    font-size: 40px;
+text-align: center;
+} */
